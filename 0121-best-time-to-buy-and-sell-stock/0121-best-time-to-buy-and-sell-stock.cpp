@@ -5,14 +5,12 @@ public:
         int buy = 0;
         int sell = 0;
         while (buy<=sell && sell<prices.size()){
-            int profit = prices[sell]-prices[buy];
-            maxprof = max(maxprof, profit);
+            maxprof = max(maxprof, prices[sell]-prices[buy]);
             if (prices[buy]>prices[sell]){
                 buy++;
                 sell=buy;
-            } else {
-                sell++;
-            }
+            } 
+            else sell++;
         }
         return maxprof;
     }
