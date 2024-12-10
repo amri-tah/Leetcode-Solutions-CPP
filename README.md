@@ -11,6 +11,7 @@ My CPP learning journey :)
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0229-majority-element-ii) |
@@ -48,6 +49,7 @@ My CPP learning journey :)
 | ------- |
 | [0011-container-with-most-water](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -58,4 +60,8 @@ My CPP learning journey :)
 | ------- |
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
