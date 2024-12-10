@@ -7,6 +7,7 @@ My CPP learning journey :)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0229-majority-element-ii) |
@@ -38,4 +39,12 @@ My CPP learning journey :)
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
