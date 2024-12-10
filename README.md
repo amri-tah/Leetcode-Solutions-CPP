@@ -8,6 +8,7 @@ My CPP learning journey :)
 | ------- |
 | [0001-two-sum](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0169-majority-element) |
@@ -51,8 +52,10 @@ My CPP learning journey :)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
