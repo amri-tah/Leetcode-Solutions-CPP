@@ -17,6 +17,7 @@ My CPP learning journey :)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ My CPP learning journey :)
 | [0001-two-sum](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -71,4 +73,8 @@ My CPP learning journey :)
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
