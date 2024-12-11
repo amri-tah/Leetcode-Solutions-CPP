@@ -8,6 +8,7 @@ My CPP learning journey :)
 | ------- |
 | [0001-two-sum](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@ My CPP learning journey :)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
