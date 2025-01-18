@@ -78,6 +78,7 @@ My CPP learning journey :)
 | ------- |
 | [0053-maximum-subarray](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
@@ -103,4 +104,12 @@ My CPP learning journey :)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
