@@ -11,6 +11,7 @@ My CPP learning journey :)
 | [0015-3sum](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0088-merge-sorted-array) |
@@ -35,6 +36,7 @@ My CPP learning journey :)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -72,6 +74,7 @@ My CPP learning journey :)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
