@@ -62,6 +62,7 @@ My CPP learning journey :)
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@ My CPP learning journey :)
 | [0027-remove-element](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
@@ -85,6 +87,7 @@ My CPP learning journey :)
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
