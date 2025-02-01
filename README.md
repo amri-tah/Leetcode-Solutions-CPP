@@ -15,6 +15,7 @@ My CPP learning journey :)
 | [0053-maximum-subarray](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -89,6 +90,7 @@ My CPP learning journey :)
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -100,6 +102,7 @@ My CPP learning journey :)
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
