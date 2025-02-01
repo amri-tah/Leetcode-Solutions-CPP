@@ -26,6 +26,7 @@ My CPP learning journey :)
 | [0238-product-of-array-except-self](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3429-special-array-i](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/3429-special-array-i) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,10 +109,12 @@ My CPP learning journey :)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0238-product-of-array-except-self) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0070-climbing-stairs) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Memoization
 |  |
 | ------- |
