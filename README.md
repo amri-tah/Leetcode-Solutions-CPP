@@ -27,6 +27,7 @@ My CPP learning journey :)
 | [0229-majority-element-ii](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3429-special-array-i](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/3429-special-array-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Hash Table
