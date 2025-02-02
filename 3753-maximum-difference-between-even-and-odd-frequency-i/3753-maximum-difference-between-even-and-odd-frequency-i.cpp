@@ -2,15 +2,14 @@ class Solution {
 public:
     int maxDifference(string s) {
         unordered_map<char, int> freq;
-        int oddmax = INT_MIN, evenmin = INT_MAX;
+        int oddmax = -1, evenmin = 101;
         for (char c : s){
-            if (freq.count(c)>0) freq[c]++;
-            else freq[c]=1;
+            freq[c]++;
         }
 
-        for (auto i: freq){
-            if (i.second%2==0) evenmin = min(evenmin, i.second);
-            else oddmax = max(oddmax, i.second);
+        for (auto [_,i]: freq){
+            if (i%2==0) evenmin = min(evenmin, i);
+            else oddmax = max(oddmax, i);
         }
 
         return oddmax-evenmin;
