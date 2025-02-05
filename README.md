@@ -41,6 +41,7 @@ My CPP learning journey :)
 | [0219-contains-duplicate-ii](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0242-valid-anagram) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,12 +62,14 @@ My CPP learning journey :)
 | ------- |
 | [0169-majority-element](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0229-majority-element-ii) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/0647-palindromic-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/amri-tah/Leetcode-Solutions-CPP/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Two Pointers
 |  |
 | ------- |
